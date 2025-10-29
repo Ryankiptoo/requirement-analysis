@@ -1,1 +1,2 @@
 Requirement Analysis in Software Development
+What is Requirement Analysis?- Requirement Analysis is the process of identifying, gathering, and analyzing the needs and expectations of stakeholders for a software system. It focuses on understanding what the users want the system to do (functional requirements) and how the system should perform (non-functional requirements). The goal is to produce a clear, precise, and agreed-upon set of requirements that guide the design and development of the system.
