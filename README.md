@@ -28,4 +28,36 @@ Requirement Engineering involves several key activities that ensure software req
 - Validation ensures that the documented requirements accurately reflect the user’s needs and business objectives.  
 - It involves reviewing, testing, and verifying requirements with stakeholders to detect errors or ambiguities early.  
 - Common methods include walkthroughs, inspections, and prototyping.
+Types of Requirements
+## Functional vs Non-functional Requirements
+
+In software development, requirements are generally categorized into **Functional** and **Non-functional** requirements. Both are essential for building a complete and successful system, but they focus on different aspects of the software.
+
+### Functional Requirements
+- Define **what the system should do**.  
+- Describe the **features, functions, and operations** that the system must perform.  
+- They are usually derived directly from user needs and business goals.  
+- Examples:
+  - The system should allow users to log in using a username and password.  
+  - The system should generate a monthly sales report.  
+  - The system should allow customers to make online payments.
+
+### Non-functional Requirements
+- Define **how the system should perform** rather than what it does.  
+- Focus on the **quality attributes** of the system such as performance, usability, reliability, and security.  
+- They ensure that the system runs efficiently and provides a good user experience.  
+- Examples:
+  - The system should load the dashboard within 3 seconds.  
+  - The system should be available 99.9% of the time.  
+  - The system should encrypt all user data for security.
+
+### Summary Table
+
+| Aspect | Functional Requirements | Non-functional Requirements |
+|--------|--------------------------|------------------------------|
+| Focus  | What the system does | How the system performs |
+| Type   | Functional features and behaviors | Quality attributes and performance standards |
+| Example | Login, search, report generation | Speed, security, scalability |
+| Measured By | Correctness of output | Quality metrics and benchmarks |
+
 
